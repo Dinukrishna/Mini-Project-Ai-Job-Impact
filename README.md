@@ -196,6 +196,6 @@ This project demonstrates:
 
 ## 📬 Author
 
-**Dinukrishna A.**
+**Dinukrishna A**
 
 ---
